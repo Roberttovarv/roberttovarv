@@ -1,7 +1,6 @@
 # You can call me Rob
 
 <img src="img/hhtt.png" height="50 px" width="50 px"> <img src="img/CSS3_logo.svg.png" height="50 px" width="50 px"> 
-<img src="img/4g.png" height="50 px" width="auto"> 
 
 #
 ## About me
