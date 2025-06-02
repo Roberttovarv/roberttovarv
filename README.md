@@ -4,10 +4,9 @@
 
 #
 ## About me
-I've studied Psychology but technologies have always been part of my life.
+As a Full Stack Developer at 4Geeks Academy, I combine my experience in web development and programming with a strong focus on React, Python, and modern front-end and back-end technologies. In my current role, I contribute to student growth through mentoring and hands-on projects, fostering the learning and application of technical skills in real-world environments. 
 
-Videoproduccion has been my job and hobby for several years where designing has alfo formed part of my job.
-Now I've decided to come back to the hobby that had me passionate as a teenager and the one I want to make my lifestyle, that's why I decided to become a Full Stack Developer.
+With over four years of experience in both technical and creative roles, I’m driven by the opportunity to integrate my passion for technology with my background in audiovisual production. My goal is to continue delivering innovative solutions while supporting teams and students in their professional growth within the dynamic tech landscape.
 
 We can connect here: &nbsp; <a href="https://www.linkedin.com/in/robert-tovar-0b8371132" target="_blank"><img src="img/LinkedIn_logo_initials.png" height="20 px" width="20 px"></a>
 
