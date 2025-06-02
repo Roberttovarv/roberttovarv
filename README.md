@@ -1,6 +1,8 @@
 # Rob.
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,python,bootstrap,html,css,flask,npm,jest,postman,vscode)      <img src="https://miro.medium.com/v2/resize:fit:1400/0*WjSAJOw135lrf8__.jpg" alt="SQL"  width="120" height="50" style="margin-left: 100px; border-radius: 15px;">
+![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,python,bootstrap,html,css,flask,npm,jest,postman,vscode)      
+<img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQL"  width="auto" height="50">
+
 
 #
 ## About me
