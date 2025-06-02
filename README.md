@@ -1,6 +1,6 @@
-# You can call me Rob
+# Rob.
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,flask,python)      <img src="https://miro.medium.com/v2/resize:fit:1400/0*WjSAJOw135lrf8__.jpg" alt="SQL"  width="120" height="50" style="margin-left: 100px;">
+![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,python,bootstrap,html,css,flask,npm,jest,postman,vscode)      <img src="https://miro.medium.com/v2/resize:fit:1400/0*WjSAJOw135lrf8__.jpg" alt="SQL"  width="120" height="50" style="margin-left: 100px;">
 
 #
 ## About me
