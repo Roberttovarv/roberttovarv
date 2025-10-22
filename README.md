@@ -1,6 +1,6 @@
 # Rob.
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,java,python,cs,bootstrap,html,css,flask,npm,jest,postman,vscode,github,unity&perline=9)     <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQL"  width="auto" height="40">
+![My Skills](https://skillicons.dev/icons?i=react,redux,js,ts,java,python,cs,bootstrap,html,css,flask,npm,jest,postman,vscode,github,unity&perline=6)   <br/>  <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQL"  width="auto" height="40">
 
 
 #
