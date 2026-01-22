@@ -5,9 +5,7 @@
 
 #
 ## About me
-As a Full Stack Developer at 4Geeks Academy, I combine my experience in web development and programming with a strong focus on React, Python, and modern front-end and back-end technologies. In my current role, I contribute to student growth through mentoring and hands-on projects, fostering the learning and application of technical skills in real-world environments. 
-
-With over four years of experience in both technical and creative roles, I’m driven by the opportunity to integrate my passion for technology with my background in audiovisual production. My goal is to continue delivering innovative solutions while supporting teams and students in their professional growth within the dynamic tech landscape.
+Experienced on React, Python, and modern front-end and back-end technologies. Also, as Teacher Assitant I contributed to student growth through mentoring and hands-on projects, fostering the learning and application of technical skills in real-world environments. 
 
 We can connect here: &nbsp; <a href="https://www.linkedin.com/in/robert-tovar-0b8371132" target="_blank"><img src="img/LinkedIn_logo_initials.png" height="20 px" width="20 px"></a>
 
